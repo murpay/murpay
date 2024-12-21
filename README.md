@@ -2,6 +2,6 @@
 - 👀 I’m interested in software development, open-source projects, and technology trends.
 - 🌱 I’m currently learning Python and web development frameworks like React and Django.
 - 💞️ I’m looking to collaborate on open-source projects, especially those focused on sustainability and community development.
-- 📫 How to reach me: You can reach me via email at murpay@example.com or connect with me on LinkedIn at linkedin.com/in/murpay.
+- 📫 How to reach me: You can reach me via email at muhamatrifai210@gmail.com or connect with me on LinkedIn at linkedin.com/in/muhamat-rifai-9095a7290.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I once hiked the entire Appalachian Trail!
