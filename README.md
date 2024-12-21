@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @murpay
+- 👀 I’m interested in software development, open-source projects, and technology trends.
+- 🌱 I’m currently learning Python and web development frameworks like React and Django.
+- 💞️ I’m looking to collaborate on open-source projects, especially those focused on sustainability and community development.
+- 📫 How to reach me: You can reach me via email at murpay@example.com or connect with me on LinkedIn at linkedin.com/in/murpay.
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I once hiked the entire Appalachian Trail!
